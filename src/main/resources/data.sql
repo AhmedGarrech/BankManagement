@@ -1,0 +1,1 @@
+INSERT INTO client (clientName,password,clientType) values ('admin','$2a$10$n0Pwqd4ye/YoRHIURErTee28iML9vdUWIMRSAdDmSeE..ioWi9eWy','ADMIN');
